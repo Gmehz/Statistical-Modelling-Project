@@ -1,0 +1,59 @@
+Category,Rating,Name,Latitude,Longitude,Location,Distance
+Restaurant,-1.0,Ladurée ,49.285337,-123.125632,1141 Robson St ,721.0
+Restaurant,-1.0,Ganache Patisserie ,49.274548,-123.124143,1262 Homer St ,674.0
+Restaurant,-1.0,Le Cassis Patisserie & Cooking School ,49.276251,-123.115608,910 Beatty St ,514.0
+Restaurant,-1.0,Le Doux Ciel ,49.275973,-123.114043,65 Smithe St ,674.0
+Taiwanese Restaurant,-1.0,Meet Fresh ,49.286305,-123.127742,1232 Robson St ,897.0
+Flower Store,-1.0,Bay Fresh Flowers ,49.281934,-123.117959,1b21-650 Georgia St W ,228.0
+Flower Store,-1.0,Wall Flowers ,49.28055,-123.125547,1001 Hornby St ,407.0
+Flower Store,-1.0,Divine Vines ,49.275835,-123.119953,1024 Mainland St ,452.0
+Flower Store,-1.0,Angela & Gabriel's Flowers Inc ,49.284014,-123.120083,925 Georgia St W ,472.0
+Flower Store,-1.0,7 Foot Florist ,49.284595,-123.118186,888 Dunsmuir St ,523.0
+Flower Store,-1.0,Downtown Florist ,49.277354,-123.126734,730 Davie St ,548.0
+Flower Store,-1.0,Angela & Gabriel's Flowers Inc ,49.286227,-123.119623,595 Burrard St ,563.0
+Flower Store,-1.0,Queensberry Flower Co ,49.28233,-123.116208,655 Seymour St ,571.0
+Flower Store,-1.0,Downtown Gifts and Flowers ,49.2774,-123.127144,730 Davie St ,574.0
+Flower Store,-1.0,Eden Florist ,49.278317,-123.127709,843 Davie St ,593.0
+Flower Store,-1.0,Flower Expression ,49.285609,-123.119814,St Corner of Burrard St ,615.0
+Flower Store,-1.0,Heathers the Flowershop ,49.284048,-123.110189,422 Cordova St W ,849.0
+Flower Store,-1.0,First Blossom Floral Boutique ,49.286875,-123.114649,880 Cordova St W ,852.0
+Flower Store,-1.0,Vivio Flower Atelier Ltd ,49.287879,-123.121143,1125W Pender St W ,885.0
+Flower Store,-1.0,Davie Flowers ,49.281158,-123.132008,1139 Davie St ,886.0
+Flower Store,-1.0,La Florería ,49.288029,-123.121075,1125 Pender St W ,888.0
+Flower Store,-1.0,Lavender & Lilacs Florist ,49.288646,-123.121777,1177 Hastings St W ,967.0
+Flower Store,-1.0,Sunflower Florist Ltd ,49.274399,-123.126888,1359 Richards St ,2462.0
+Flower Store,-1.0,Fleurs d'Amour ,49.279824,-123.117049,437 Robson St ,214.0
+Flower Store,-1.0,Bonus Eventus Florist ,49.279695,-123.115415,345 Robson St ,334.0
+Flower Store,-1.0,Granville Station Flowers ,49.282485,-123.116383,655 Seymour St ,380.0
+Flower Store,-1.0,Thomas Hobbs Florist ,49.280149,-123.12527,1001 Hornby St ,382.0
+Flower Store,-1.0,D&D Flowers ,49.282906,-123.114067,531 Richards St ,537.0
+Flower Store,-1.0,Choice Flowers ,49.285296,-123.121896,1055 Georgia St W ,604.0
+Flower Store,-1.0,Flowers Aficionado ,49.285656,-123.120224,625 Burrard St ,628.0
+Flower Store,-1.0,Fran's Flowers ,49.28513,-123.115879,500 Howe St ,643.0
+Flower Store,-1.0,For the Moment Floral Designs ,49.283812,-123.113252,543 Pender St W ,647.0
+Flower Store,-1.0,Cariboo Rose Resources Ltd ,49.286473,-123.114371,325 Howe St ,826.0
+Flower Store,-1.0,Flowerz ,49.286932,-123.114653,880 Cordova St W ,862.0
+Flower Store,-1.0,Franchiselink ,49.287745,-123.118374,1055W Hastings St W ,868.0
+Flower Store,-1.0,Axon Communications Inc ,49.287956,-123.116769,1011 Cordova St W ,914.0
+Flower Store,-1.0,Granville Island Florist ,49.288373,-123.116886,1038 Canada Pl ,957.0
+Pastry Shop,-1.0,Comme Chez Ta Mère ,49.28489,-123.126729,1151 Haro St ,730.0
+"Vietnamese, Cocktail Bars",4.0, Anh and Chi,49.2550314422938,-123.100882202153, 3388 Main Street,1666.0698459342414
+"Canadian (New), Diners, Bars",4.5, AnnaLena,49.2708261,-123.1467714, 1809 W 1st Avenue,2337.071855665719
+Seafood,4.5, Blue Water Cafe,49.2761945,-123.1209935, 1095 Hamilton St,2244.533253205869
+"Canadian (New), Cocktail Bars",4.0, Cactus Club Cafe,49.2895176422553,-123.1181077748714, 1085 Canada Place,3737.6936393129217
+Belgian,4.0, Chambar,49.2801460007961,-123.109925328073, 568 Beatty Street,2855.66321769594
+Canadian (New),4.5, Fable Kitchen,49.2679331,-123.149019, 1944 W 4th Avenue,2254.654256872216
+"Seafood, Seafood Markets",4.5, Fanny Bay Oyster Bar & Shellfish Market,49.2787525,-123.1138689, 762 Cambie St,2598.4589797732324
+"Japanese, Tapas/Small Plates",4.5, Guu with Garlic,49.290249,-123.1338142, 1698 Robson Street,3860.031994411108
+"Japanese, Tapas/Small Plates",4.5, Kingyo,49.29061,-123.13714, 871 Denman Street,3956.429708489889
+Breakfast & Brunch,4.5, Jam Cafe on Beatty,49.2802586,-123.1096376, 556 Beatty Street,2873.7041948423675
+Breakfast & Brunch,4.5, OEB Breakfast Co. Yaletown,49.2734341,-123.1192724, 1137 Marinaside Crescent,1956.674110836241
+"Seafood, Steakhouses",4.0, Joe Fortes Seafood & Chop House,49.28493,-123.12473, 777 Thurlow Street,3206.8270869548664
+Italian,4.5, Lupo,49.27823,-123.1174, 869 Hamilton Street,2499.669740790866
+"Breakfast & Brunch, Middle Eastern, Wine Bars",4.0, Medina Cafe,49.2804429972571,-123.117036269849, 780 Richards Street,2749.797183069722
+"Japanese, Sushi Bars, Vegetarian",4.5, Miku,49.28691753455261,-123.11276314110472, 200 Granville Street,3517.852907645416
+"Cambodian, Vietnamese",4.0, Phnom Penh,49.278431,-123.098205, 244 E Georgia Street,3099.1363963772965
+"Tapas/Small Plates, Wine Bars, Cocktail Bars",4.5, Published On Main,49.25283186017385,-123.10116032897228, 3593 Main Street,1681.5494984604047
+"Japanese, Sushi Bars",4.0, Raisu,49.2679990419609,-123.158381134272, 2340 W 4th Avenue,2837.7681565274274
+"Japanese, Tapas/Small Plates, Sushi Bars",4.0, Suika,49.26333,-123.1417, 1626 W Broadway,1532.5496911067482
+"Canadian (New), Seafood",4.0, The Flying Pig,49.27501,-123.122, 1168 Hamilton Street,2108.8135227635885

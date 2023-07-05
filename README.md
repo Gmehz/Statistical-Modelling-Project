@@ -4,7 +4,7 @@
 The goal of this project is to use Foursquare API and Yelp API to retrieve information so as to construct a dataset. The dataset will ultimately be used to construct a statistical model. This project also develop skills in using APIs, performing exploratory analysis, data cleaning and data visualization.
 
 ## Process
-### 1. Choose a city so as to retrieve all the bike stations of a certain company, which are found within a 1000m radius from the city in question. I have chosen Vancouver as my city and mobibike as the bike company.
+### 1. Use the CityBikes Api to gather data about all bike stations in Vancouver
 ### 2. The next step is to use the both Foursquare API and Yelp API to get all pastry shops and flower shops that are found within a 1000m radius of the bike stations.
 ### 3. Performing a comparative analysis to see which API brings better result.
 ### 4. Merge the different datasets on common grounds so as to perform further analysis and data visualizations.
